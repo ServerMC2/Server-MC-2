@@ -5761,3 +5761,24 @@ located-helen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.25): 1728431423083 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxUkAAAAZJuin5tAAAAAQAAAAEAAAAAAAAAAKbLPoMByS0JAi9rg7FNv2-uSUROFlKPBEZInV7nzuUs
+
+TUNNELS
+located-helen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1728431426227 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxUkAAAAZJuin5tAAAAAQAAAAEAAAAAAAAAAKbLPoMByS0JAi9rg7FNv2-uSUROFlKPBEZInV7nzuUs
+
+TUNNELS
+located-helen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1728431429301 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxUkAAAAZJuin5tAAAAAQAAAAEAAAAAAAAAAKbLPoMByS0JAi9rg7FNv2-uSUROFlKPBEZInV7nzuUs
+
+TUNNELS
+located-helen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
