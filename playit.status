@@ -5104,3 +5104,24 @@ login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxUkAAAAZJugJOcAAA
 
 TUNNELS
 located-helen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1728430788543 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxUkAAAAZJugM_QAAAAAQAAAAEAAAAAAAAAAMk0QTX51v6-y3EZF16U4y4QeyDSYuIxNgIZeC44tLCn
+
+TUNNELS
+located-helen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.25): 1728430803763 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxUkAAAAZJugQupAAAAAQAAAAEAAAAAAAAAANM9IC4aYo_pJiaLS-aWAO-yEP6bsvINrsHO0xQ9Juuf
+
+TUNNELS
+located-helen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.25): 1728430808378 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxUkAAAAZJugQupAAAAAQAAAAEAAAAAAAAAANM9IC4aYo_pJiaLS-aWAO-yEP6bsvINrsHO0xQ9Juuf
+
+TUNNELS
+located-helen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
